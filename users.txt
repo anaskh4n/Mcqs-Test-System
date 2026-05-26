@@ -1,3 +1,0 @@
-anas 1234
-admin admin123
-test test123
