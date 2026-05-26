@@ -10,8 +10,9 @@ A terminal-based MCQ quiz system built in C.
 - Results saved and searchable by username
 
 ## Files
-- main.c — main source code
-- questions.txt — question bank
-- answers.txt — correct answers
-- users.txt — registered users
-- results.txt — saved results
+- main.c : main source code
+- questions.txt : question bank
+- answers.txt : correct answers
+- users.txt : registered users
+- results.txt : saved results
+- admin.txt : registered admins
